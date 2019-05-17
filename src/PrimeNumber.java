@@ -59,6 +59,8 @@ public class PrimeNumber {
 				if (clsPrimeNumber.isPrimeNumber(loopIndex)) {
 					System.out.println(loopIndex);
 					counter++;
+					
+					
 				}
 
 			}
