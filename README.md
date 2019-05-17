@@ -1,5 +1,5 @@
-***********By Md Zahirul Islam***************
-*********************************************
+########By Md Zahirul Islam########
+###################################
 
 This is a sample console program to get list of prime numbers between a number range. Program is written with Java. Things to note to run this program:
 
@@ -8,4 +8,4 @@ This is a sample console program to get list of prime numbers between a number r
 3. This is a console application, so please enter your input in console area when required.
 
 
-*****You are free to use or distribute this sample code for personal use********
+###################You are free to use or distribute this sample code for personal use############################
